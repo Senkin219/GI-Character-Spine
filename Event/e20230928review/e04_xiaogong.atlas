@@ -1,0 +1,134 @@
+e04_xiaogong.png
+size:2048,850
+filter:Linear,Linear
+scale:0.65
+ed
+bounds:1995,769,51,80
+光
+bounds:1,181,405,668
+刘海1
+bounds:1077,281,252,568
+刘海2
+bounds:1114,163,144,275
+rotate:90
+刘海3
+bounds:1035,314,150,265
+刘海4
+bounds:1724,241,250,352
+右眼上眼影
+bounds:416,17,77,88
+右眼双眼皮
+bounds:625,353,69,88
+右眼眼白
+bounds:1277,774,77,75
+右眼瞳孔
+bounds:1640,548,58,76
+offsets:0,5,58,81
+右眼高光 x
+bounds:447,828,18,21
+右腿 s
+bounds:613,208,140,282
+offsets:5,6,211,288
+rotate:90
+右臂
+bounds:1544,320,130,183
+rotate:90
+右边上眼睑
+bounds:1210,99,142,62
+后摆 x
+bounds:1314,168,321,311
+rotate:270
+后脑勺
+bounds:1331,408,441,386
+offsets:0,0,441,387
+rotate:90
+大臂 x
+bounds:1,76,103,186
+rotate:90
+小臂 x
+bounds:740,57,92,151
+offsets:0,23,92,174
+左眼上眼影
+bounds:1676,62,96,83
+左眼双眼皮
+bounds:188,78,118,101
+左眼眼白
+bounds:1064,81,108,85
+左眼瞳孔
+bounds:1850,164,74,80
+offsets:0,4,74,85
+左眼高光 s
+bounds:1242,821,23,28
+左腿 x
+bounds:698,293,200,304
+offsets:0,8,200,312
+rotate:90
+左边上眼睑
+bounds:1086,580,101,76
+rotate:90
+张嘴
+bounds:745,505,62,60
+手 x
+bounds:1520,56,128,155
+rotate:90
+文件夹6
+bounds:1831,69,233,216
+offsets:0,0,234,216
+rotate:90
+眉毛 s - 1
+bounds:724,831,70,18
+眉毛 s - 2
+bounds:796,834,56,15
+箱子
+bounds:795,456,393,289
+rotate:270
+绳结1 x
+bounds:407,259,215,207
+绳结2 x
+bounds:1397,13,115,118
+rotate:90
+绳结3 x
+bounds:1688,1,164,114
+绳结5 x
+bounds:1931,33,100,116
+rotate:270
+耳坠1 x
+bounds:617,90,121,122
+耳坠2 x
+bounds:2010,671,34,96
+脸
+bounds:407,442,407,389
+rotate:90
+蝴蝶结 s
+bounds:509,23,106,115
+裙子 s
+bounds:1784,490,359,226
+rotate:270
+身体
+bounds:1432,584,265,352
+rotate:90
+闭右眼
+bounds:1174,53,98,44
+闭嘴
+bounds:1356,837,61,12
+闭左眼
+bounds:835,70,201,42
+项链 x
+bounds:407,802,38,47
+香包 s
+bounds:308,47,107,106
+rotate:270
+马尾1 s
+bounds:1333,95,171,185
+rotate:90
+马尾2
+bounds:376,108,240,155
+rotate:180
+马尾3 s
+bounds:1864,336,154,183
+rotate:90
+马尾4
+bounds:1583,147,265,180
+rotate:180
+马尾发饰
+bounds:850,114,225,181

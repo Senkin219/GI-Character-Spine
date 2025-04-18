@@ -1,0 +1,121 @@
+xumi_arhs.png
+size:464,127
+filter:Linear,Linear
+scale:0.16
+jm - 1
+bounds:420,1,28,18
+jm - 2
+bounds:439,13,25,18
+rotate:270
+jmx - 1
+bounds:53,73,11,8
+jmx - 2
+bounds:33,98,10,8
+mm - 1
+bounds:307,1,31,9
+mm - 2
+bounds:139,3,24,8
+yb - 1
+bounds:392,46,23,16
+rotate:90
+yb - 2
+bounds:117,0,20,16
+yz - 1
+bounds:426,39,16,16
+yz - 2
+bounds:431,101,14,16
+右大臂
+bounds:398,102,21,25
+rotate:180
+右小臂
+bounds:356,4,36,38
+右腿
+bounds:213,20,28,64
+rotate:270
+呆毛 2
+bounds:336,85,46,42
+rotate:180
+呆毛 2 的複製
+bounds:389,15,17,29
+rotate:180
+呆毛 2 的複製 2
+bounds:395,1,39,26
+rotate:270
+嘴巴
+bounds:0,118,5,2
+头 2
+bounds:141,31,89,96
+头发 2
+bounds:0,26,144,101
+头发 2 的複製
+bounds:386,73,18,23
+头发 2 的複製 2
+bounds:39,83,18,31
+rotate:90
+头发 2 的複製 3
+bounds:263,6,22,47
+offsets:0,0,23,47
+rotate:270
+头发 2 的複製 4
+bounds:230,33,94,90
+rotate:90
+左大腿
+bounds:366,44,23,29
+左大臂 2
+bounds:379,98,20,29
+左小腿
+bounds:122,12,34,46
+rotate:90
+左小臂
+bounds:71,5,44,24
+左手
+bounds:311,13,43,35
+带子1 2
+bounds:433,57,14,36
+offsets:0,0,14,39
+rotate:180
+带子1 的複製 2 2
+bounds:423,60,15,39
+offsets:0,0,15,40
+rotate:180
+带子1 的複製 3
+bounds:416,77,13,42
+rotate:180
+带子4
+bounds:406,37,18,47
+rotate:180
+披肩 2
+bounds:0,3,33,39
+rotate:180
+披风 2
+bounds:36,87,40,56
+rotate:90
+挂饰1 2
+bounds:0,43,8,23
+挂饰2 2
+bounds:451,79,10,23
+羽毛
+bounds:442,57,21,16
+rotate:270
+耳机 2
+bounds:170,7,23,40
+rotate:90
+耳机 2 的複製
+bounds:444,28,20,21
+腰带1
+bounds:431,119,20,8
+身体
+bounds:318,46,48,60
+rotate:180
+闭眼 - 1
+bounds:34,8,29,17
+闭眼 - 2
+bounds:423,14,23,13
+rotate:90
+飘带
+bounds:212,3,15,40
+rotate:90
+高光 - 1
+bounds:7,122,5,5
+高光 - 2
+bounds:0,122,5,5

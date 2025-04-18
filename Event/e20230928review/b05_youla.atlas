@@ -1,0 +1,144 @@
+b05_youla.png
+size:1953,1000
+filter:Linear,Linear
+scale:0.5
+上层
+bounds:1066,579,420,358
+rotate:90
+上眼睑 右
+bounds:1427,12,50,53
+rotate:90
+上眼睑左
+bounds:983,17,85,57
+rotate:90
+上身
+bounds:1,79,264,299
+offsets:31,10,295,332
+rotate:90
+下层
+bounds:1066,252,423,325
+offsets:0,6,423,331
+中
+bounds:1857,823,95,176
+光
+bounds:1,345,654,1063
+rotate:90
+发尾
+bounds:302,7,112,118
+rotate:90
+发带
+bounds:1379,139,111,87
+rotate:90
+右
+bounds:422,3,53,144
+rotate:90
+右上臂
+bounds:1222,33,151,80
+右手
+bounds:988,104,159,73
+rotate:90
+右腿
+bounds:1426,776,223,429
+rotate:90
+右袖子
+bounds:1063,96,154,157
+offsets:0,0,154,159
+rotate:90
+右袖子 里
+bounds:919,46,62,153
+嘴巴
+bounds:1940,791,30,12
+rotate:90
+图层357
+bounds:1871,595,21,123
+offsets:0,0,21,124
+头发  内
+bounds:206,17,60,93
+rotate:90
+头发 侧2
+bounds:1811,386,140,201
+头发 右侧
+bounds:1737,1,94,253
+头发1 副本
+bounds:1426,589,278,185
+offsets:0,5,278,190
+头发侧 副本
+bounds:302,121,222,300
+rotate:90
+头发侧3
+bounds:604,40,159,313
+offsets:0,0,267,313
+rotate:90
+头发右侧后
+bounds:1379,28,46,109
+头发（底）
+bounds:1491,256,318,331
+头发（底） 副本
+bounds:1894,631,58,87
+头饰
+bounds:1706,720,54,238
+rotate:90
+左
+bounds:1706,589,163,129
+offsets:0,7,163,137
+左手
+bounds:988,265,78,74
+rotate:90
+左腿
+bounds:604,201,142,382
+rotate:90
+左袖口
+bounds:1222,115,155,135
+offsets:24,0,179,225
+布料
+bounds:1833,133,107,251
+水晶
+bounds:1042,59,35,63
+rotate:90
+眉毛L
+bounds:1189,26,68,31
+rotate:90
+眉毛R
+bounds:1926,778,43,12
+rotate:90
+眼影 右
+bounds:1042,30,31,27
+眼影左
+bounds:1107,23,35,39
+rotate:90
+眼白 右
+bounds:1894,589,40,42
+rotate:90
+眼白 左
+bounds:1857,776,67,45
+眼瞳 右
+bounds:568,11,30,45
+眼瞳 左
+bounds:919,1,43,53
+rotate:90
+胸针
+bounds:1833,6,103,125
+脸部
+bounds:1491,21,244,233
+装饰2
+bounds:1427,64,56,73
+闭眼右
+bounds:1148,9,49,27
+rotate:90
+闭眼左
+bounds:1107,60,80,34
+领子
+bounds:1,6,71,203
+rotate:90
+领带
+bounds:422,58,61,180
+rotate:90
+高光 右
+bounds:1938,614,15,12
+rotate:90
+高光左
+bounds:1938,597,15,12
+rotate:90
+鼻子
+bounds:1426,584,3,4
+rotate:90

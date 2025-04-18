@@ -1,0 +1,148 @@
+xumi_nilu.png
+size:912,89
+filter:Linear,Linear
+scale:0.16
+刘海
+bounds:314,23,66,59
+rotate:90
+右大腿
+bounds:409,1,23,32
+rotate:270
+右大臂
+bounds:876,1,19,19
+右小腿
+bounds:603,1,23,31
+rotate:270
+右小臂
+bounds:820,2,28,25
+rotate:270
+右手
+bounds:884,24,17,16
+rotate:90
+右衣摆1
+bounds:781,3,42,38
+rotate:180
+右衣摆2
+bounds:129,0,14,21
+rotate:90
+右衣摆3
+bounds:440,2,23,19
+右马尾1
+bounds:708,53,36,42
+rotate:270
+右马尾2
+bounds:607,5,47,74
+rotate:90
+头
+bounds:131,4,85,90
+rotate:90
+头发 的複製
+bounds:373,7,44,104
+rotate:270
+头发 的複製 2
+bounds:593,59,30,97
+rotate:90
+头发 的複製 3
+bounds:439,1,88,66
+rotate:270
+头饰1
+bounds:217,4,104,56
+rotate:180
+头饰2
+bounds:771,3,37,72
+rotate:180
+头饰3
+bounds:490,34,55,106
+rotate:90
+头饰4
+bounds:496,2,40,113
+rotate:90
+头饰5
+bounds:0,13,129,76
+左大腿
+bounds:807,43,27,34
+左大臂
+bounds:248,0,24,21
+rotate:180
+左小腿
+bounds:323,3,23,29
+rotate:90
+左小臂
+bounds:834,64,22,25
+左手
+bounds:892,50,14,16
+左衣摆1
+bounds:833,25,18,38
+rotate:180
+左衣摆2
+bounds:847,1,22,19
+rotate:90
+左马尾1
+bounds:691,13,34,76
+rotate:180
+左马尾2
+bounds:725,3,35,40
+张嘴
+bounds:222,3,9,7
+投影
+bounds:83,2,9,26
+rotate:90
+挂件
+bounds:905,26,7,15
+挂件2
+bounds:233,4,7,12
+rotate:90
+眉毛 - 1
+bounds:204,2,16,4
+眉毛 - 2
+bounds:111,3,16,5
+眼白 - 1
+bounds:858,67,19,19
+眼白 - 2
+bounds:851,45,20,19
+rotate:90
+眼皮 - 1
+bounds:898,67,22,14
+rotate:90
+眼皮 - 2
+bounds:897,1,25,14
+rotate:270
+瞳孔 - 1
+bounds:291,0,15,18
+瞳孔 - 2
+bounds:354,2,16,19
+结
+bounds:879,68,17,18
+腰带1
+bounds:872,42,24,19
+rotate:270
+腰带2
+bounds:681,0,42,15
+腰带3 - 1
+bounds:636,0,5,8
+腰带3 - 2
+bounds:308,1,6,8
+腰带4
+bounds:863,14,20,29
+rotate:180
+身体1
+bounds:751,39,30,37
+闭嘴
+bounds:152,0,9,3
+闭眼 - 1
+bounds:61,0,20,11
+闭眼 - 2
+bounds:0,0,22,11
+飘带1
+bounds:24,1,10,35
+rotate:90
+飘带2
+bounds:755,2,16,36
+高光1 - 1
+bounds:184,0,4,4
+高光1 - 2
+bounds:184,0,4,4
+高光2 - 1
+bounds:319,1,5,5
+高光2 - 2
+bounds:319,1,5,5

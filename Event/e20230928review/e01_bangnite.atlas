@@ -1,0 +1,104 @@
+e01_bangnite.png
+size:605,2023
+filter:Linear,Linear
+scale:0.5
+her
+bounds:542,1784,47,69
+上半身
+bounds:114,788,310,414
+rotate:90
+下半身
+bounds:240,383,253,283
+offsets:0,0,380,427
+rotate:270
+刘海 中
+bounds:417,1092,115,264
+刘海 右
+bounds:153,153,128,289
+offsets:0,0,130,289
+rotate:90
+刘海 右上
+bounds:486,1097,90,258
+刘海 左
+bounds:106,258,197,255
+刘海 左下
+bounds:1,219,151,194
+右手
+bounds:521,289,84,83
+rotate:90
+右腿
+bounds:1,424,153,216
+offsets:0,0,153,218
+右臂大臂
+bounds:197,56,119,159
+rotate:90
+右臂小臂
+bounds:476,209,99,106
+offsets:0,2,99,108
+rotate:180
+头发后 1
+bounds:475,833,183,90
+rotate:90
+头发后 2
+bounds:1,1014,414,353
+头发后 3
+bounds:542,1678,104,42
+rotate:90
+左大臂
+bounds:396,118,148,158
+左小臂
+bounds:1,116,206,94
+rotate:180
+带子右
+bounds:536,1338,61,188
+带子左
+bounds:537,921,60,209
+张嘴
+bounds:438,4,54,39
+护目镜
+bounds:209,279,339,216
+offsets:0,65,339,281
+文件
+bounds:421,631,157,125
+rotate:90
+班尼特光
+bounds:1,1368,540,654
+眉毛 右
+bounds:1,94,57,20
+眉毛 左
+bounds:544,375,54,35
+眼白 右
+bounds:542,1626,53,51
+眼白 左
+bounds:542,1947,75,55
+rotate:90
+眼眶 右
+bounds:538,602,65,66
+眼眶 左
+bounds:491,19,97,65
+rotate:90
+眼瞳 右
+bounds:542,1575,38,49
+眼瞳 左
+bounds:536,154,51,55
+翘毛1
+bounds:322,1,169,133
+rotate:180
+翘毛2
+bounds:493,511,149,95
+rotate:270
+脸
+bounds:114,554,309,282
+闭眼 右
+bounds:546,118,55,29
+闭眼 左
+bounds:542,1855,90,39
+rotate:90
+领子遮挡
+bounds:518,749,130,81
+offsets:0,103,130,186
+rotate:90
+高光 右
+bounds:1,56,13,18
+高光 左
+bounds:1,76,17,16

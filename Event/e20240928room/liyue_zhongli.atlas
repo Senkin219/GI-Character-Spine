@@ -1,0 +1,140 @@
+liyue_zhongli.png
+size:284,269
+filter:Linear,Linear
+scale:0.16
+G1
+bounds:218,25,25,25
+G2
+bounds:91,50,53,53
+前摆背面
+bounds:230,138,12,38
+右大腿
+bounds:191,138,37,38
+offsets:3,0,40,38
+右大臂
+bounds:169,0,24,28
+rotate:90
+右小腿
+bounds:192,178,27,50
+rotate:90
+右小臂
+bounds:0,0,26,24
+rotate:90
+后发
+bounds:252,216,27,53
+后发2
+bounds:201,39,15,49
+后摆1
+bounds:146,26,53,44
+后摆2
+bounds:80,0,24,45
+rotate:90
+嘴 的複製
+bounds:87,60,8,2
+rotate:90
+头
+bounds:0,70,89,96
+offsets:0,3,89,99
+头发1
+bounds:0,28,40,85
+rotate:90
+头发2
+bounds:127,0,40,24
+头发3
+bounds:0,168,115,101
+offsets:0,12,115,113
+头发4
+bounds:117,190,73,79
+头发5
+bounds:146,72,54,53
+rotate:90
+头发h
+bounds:230,98,38,21
+offsets:0,0,38,22
+rotate:90
+左大腿
+bounds:218,52,21,36
+左大臂
+bounds:244,138,17,28
+rotate:90
+左小腿
+bounds:87,26,22,44
+rotate:90
+左小臂1
+bounds:253,194,20,31
+rotate:90
+左小臂2
+bounds:201,22,15,15
+左小臂3
+bounds:253,93,14,12
+带子 - 1
+bounds:274,145,10,32
+带子 - 2
+bounds:241,59,11,29
+手1
+bounds:271,102,13,12
+手2
+bounds:263,165,7,12
+手3
+bounds:274,138,5,5
+offsets:0,0,6,5
+手4
+bounds:263,179,21,13
+眉毛 - 1
+bounds:236,0,23,7
+rotate:90
+眉毛 - 2
+bounds:230,90,20,6
+眼影 - 1
+bounds:245,30,27,17
+rotate:90
+眼影 - 2
+bounds:254,64,22,16
+眼球 - 1
+bounds:199,2,17,18
+眼球 - 2
+bounds:269,82,15,18
+眼白 - 1
+bounds:117,171,22,17
+眼白 - 2
+bounds:264,43,19,16
+rotate:90
+眼眶 - 1
+bounds:218,0,23,16
+rotate:90
+眼眶 - 2
+bounds:253,107,29,16
+rotate:90
+石头
+bounds:264,23,16,18
+耳坠
+bounds:244,157,17,35
+身体
+bounds:141,128,60,48
+rotate:90
+身体daizi1
+bounds:91,105,48,61
+身体daizi2
+bounds:26,2,24,52
+rotate:90
+身体daizi3
+bounds:133,29,11,19
+辫子
+bounds:192,207,58,62
+offsets:0,0,58,63
+闭眼 - 1
+bounds:245,1,27,17
+rotate:90
+闭眼 - 2
+bounds:271,116,20,13
+rotate:90
+领子
+bounds:201,90,46,27
+offsets:0,0,49,27
+rotate:90
+高光 - 1
+bounds:191,131,5,5
+高光 - 2
+bounds:244,200,5,5
+鼻子 的複製
+bounds:241,55,2,2

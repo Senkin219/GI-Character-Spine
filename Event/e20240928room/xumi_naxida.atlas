@@ -1,0 +1,231 @@
+xumi_naxida.png
+size:155,500
+filter:Linear,Linear
+scale:0.16
+ed1
+bounds:36,461,39,20
+rotate:90
+ed2
+bounds:130,174,41,21
+rotate:90
+h特效 - 1
+bounds:97,457,8,8
+h特效 - 2
+bounds:29,10,11,11
+h特效 - 3
+bounds:0,3,7,7
+h特效 - 4
+bounds:97,448,7,7
+h特效 - 5
+bounds:97,467,8,8
+h特效 - 6
+bounds:55,12,11,11
+h特效 - 7
+bounds:143,325,9,9
+lizi1
+bounds:58,497,3,3
+lizi8
+bounds:58,497,3,3
+lizi10
+bounds:36,473,3,3
+lizi3
+bounds:36,473,3,3
+lizi4
+bounds:36,473,3,3
+lizi6
+bounds:36,473,3,3
+lizi7
+bounds:36,473,3,3
+lizi9
+bounds:36,473,3,3
+lizi2
+bounds:36,498,2,2
+lizi5
+bounds:36,498,2,2
+qzh
+bounds:110,0,12,13
+offsets:0,0,13,13
+szh1
+bounds:16,25,10,21
+rotate:90
+szh2
+bounds:121,11,9,13
+rotate:90
+ts1
+bounds:94,116,34,67
+ts2
+bounds:57,430,38,65
+ts3
+bounds:35,337,9,18
+rotate:180
+tx1
+bounds:87,8,10,10
+tx10
+bounds:0,12,11,11
+tx11
+bounds:0,12,11,11
+tx12
+bounds:36,440,19,19
+tx13
+bounds:16,12,11,11
+tx2
+bounds:143,314,9,9
+tx3
+bounds:36,399,8,8
+tx4
+bounds:136,10,10,10
+tx5
+bounds:36,462,7,7
+tx6
+bounds:39,23,14,14
+tx7
+bounds:42,11,10,10
+tx8
+bounds:108,15,11,11
+tx9
+bounds:97,477,8,8
+txx
+bounds:125,77,20,20
+yy
+bounds:21,103,71,32
+yz - 1
+bounds:0,45,16,19
+rotate:90
+yz - 2
+bounds:0,25,14,18
+右j
+bounds:55,25,20,20
+rotate:270
+右jh
+bounds:136,271,18,10
+offsets:0,0,19,11
+右大腿
+bounds:30,83,28,18
+右大臂
+bounds:121,38,19,27
+rotate:270
+右小腿
+bounds:94,93,21,31
+rotate:90
+右小臂
+bounds:75,31,19,22
+rotate:270
+叶子
+bounds:0,85,29,24
+rotate:180
+后发 - 1
+bounds:24,53,18,35
+rotate:270
+后发 - 2
+bounds:130,121,20,22
+后发 - 3
+bounds:97,487,8,13
+嘴
+bounds:50,434,5,4
+头
+bounds:28,223,88,91
+offsets:0,0,88,92
+rotate:270
+头发
+bounds:35,303,134,84
+rotate:270
+头发1
+bounds:118,216,29,57
+头发2
+bounds:0,136,49,79
+rotate:270
+头发3
+bounds:4,64,24,29
+rotate:90
+头发4
+bounds:136,453,13,38
+offsets:0,0,13,39
+头饰3
+bounds:136,408,14,22
+头饰4
+bounds:130,145,20,27
+左j
+bounds:121,22,18,18
+rotate:90
+左jh
+bounds:146,375,20,9
+rotate:90
+左大腿
+bounds:103,27,19,21
+offsets:0,0,23,21
+rotate:90
+左小腿
+bounds:50,45,17,26
+offsets:0,0,18,26
+rotate:270
+左手 2
+bounds:24,38,19,24
+rotate:90
+左手 2 的複製
+bounds:36,414,5,5
+左手 2 的複製 2
+bounds:115,58,27,17
+左手 2 的複製 3
+bounds:100,417,5,5
+披风 2
+bounds:76,44,29,33
+offsets:0,0,29,34
+rotate:270
+披风1
+bounds:94,421,25,13
+rotate:90
+椅子
+bounds:108,410,90,26
+rotate:90
+眉毛 - 1
+bounds:7,295,18,4
+眉毛 - 2
+bounds:68,12,17,6
+眼白 - 1
+bounds:60,81,20,20
+眼白 - 2
+bounds:130,99,21,20
+睫毛
+bounds:51,64,64,22
+秋千绳l
+bounds:0,336,13,164
+秋千绳lyz1
+bounds:36,373,13,14
+rotate:90
+秋千绳lyz2
+bounds:13,1,10,10
+秋千绳r1
+bounds:99,5,12,14
+秋千绳r2
+bounds:139,52,13,14
+秋千绳r3
+bounds:21,301,12,70
+秋千绳r4
+bounds:21,373,13,127
+秋千绳r5
+bounds:15,337,4,163
+秋千绳r6
+bounds:76,20,9,20
+rotate:90
+秋千绳r7
+bounds:141,22,10,14
+身体 2
+bounds:97,284,60,52
+rotate:90
+闭眼 - 1
+bounds:136,432,20,14
+rotate:90
+闭眼 - 2
+bounds:139,217,24,12
+rotate:90
+音符 - 1
+bounds:121,377,23,29
+音符 - 2
+bounds:121,346,29,28
+rotate:90
+马尾 2
+bounds:0,179,56,131
+rotate:90
+高光
+bounds:0,295,39,5
+rotate:90

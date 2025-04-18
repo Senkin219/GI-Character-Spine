@@ -1,0 +1,49 @@
+liyue_p3_hutao.png
+size:961,759
+filter:Linear,Linear
+scale:0.8
+hutao_mtoufa
+bounds:757,77,159,280
+rotate:180
+hutao_shou_l
+bounds:0,516,173,188
+hutao_shou_r
+bounds:846,600,90,117
+rotate:180
+hutao_ti
+bounds:0,158,441,601
+hutao_xiaobi_l
+bounds:760,359,143,86
+hutao_yan_r
+bounds:0,708,151,21
+hutao_zui
+bounds:73,468,49,47
+勺子菜
+bounds:672,4,289,252
+rotate:90
+图层 1
+bounds:175,603,29,57
+offsets:0,0,29,59
+图层 10
+bounds:884,428,72,154
+rotate:180
+图层 11
+bounds:672,472,108,184
+图层 12
+bounds:884,168,77,84
+offsets:0,1,77,84
+图层 5
+bounds:0,8,319,199
+图层 8
+bounds:0,176,75,164
+rotate:180
+图层 9
+bounds:672,482,232,277
+眼
+bounds:372,480,171,47
+rotate:90
+锅
+bounds:443,131,628,228
+rotate:90
+锅里菜
+bounds:308,0,416,100

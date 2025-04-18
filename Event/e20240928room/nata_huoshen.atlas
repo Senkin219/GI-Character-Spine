@@ -1,0 +1,152 @@
+nata_huoshen.png
+size:118,666
+filter:Linear,Linear
+scale:0.08
+gg - 1
+bounds:0,645,3,2
+gg - 2
+bounds:0,649,3,2
+yz - 1
+bounds:46,8,16,14
+yz - 2
+bounds:64,1,14,14
+上半身
+bounds:66,546,43,46
+rotate:270
+上眼睑 - 1
+bounds:16,0,30,15
+上眼睑 - 2
+bounds:91,0,24,13
+下眼睑 - 1
+bounds:98,189,20,16
+下眼睑 - 2
+bounds:0,652,16,14
+侧发
+bounds:0,487,25,61
+刘海1
+bounds:53,308,57,71
+刘海2
+bounds:0,276,78,57
+rotate:180
+刘海3
+bounds:42,89,66,70
+rotate:90
+刘海4
+bounds:24,182,65,42
+rotate:180
+刘海5
+bounds:0,122,52,58
+rotate:270
+刘海6
+bounds:0,88,41,46
+rotate:180
+双眼皮 - 1
+bounds:0,3,24,8
+双眼皮 - 2
+bounds:46,566,19,7
+呆毛
+bounds:36,71,55,50
+嘴
+bounds:58,663,9,3
+头发后右1
+bounds:91,425,21,40
+offsets:0,2,28,42
+头发后右2
+bounds:0,310,57,82
+rotate:270
+头发后右3
+bounds:47,421,59,109
+rotate:180
+头发后左1
+bounds:77,209,34,52
+头发后左2
+bounds:33,244,53,79
+rotate:90
+头发后左3
+bounds:4,369,57,100
+offsets:0,0,57,101
+rotate:90
+头发最后右
+bounds:13,155,36,64
+rotate:90
+头发最后左
+bounds:72,138,39,62
+头发顶部后
+bounds:0,452,123,77
+rotate:270
+手前大臂1
+bounds:97,465,18,24
+rotate:180
+手前小臂1
+bounds:0,43,26,25
+手前手掌1
+bounds:19,13,18,17
+rotate:180
+手前肩甲后1
+bounds:71,653,7,13
+手后大臂2
+bounds:97,522,18,24
+手后小臂2
+bounds:83,46,23,27
+rotate:270
+手后手掌2
+bounds:102,381,16,17
+托腮【3大臂
+bounds:37,24,13,26
+rotate:90
+托腮【3小臂
+bounds:54,59,27,28
+rotate:90
+托腮【3手掌
+bounds:98,164,18,19
+抱臂【4大臂
+bounds:96,355,18,24
+抱臂【4小臂
+bounds:29,46,25,25
+抱臂【4手掌
+bounds:0,14,18,18
+rotate:270
+拉链1
+bounds:107,62,11,14
+拉链2
+bounds:3,577,4,6
+拉链3
+bounds:0,582,4,6
+眉毛
+bounds:64,17,27,9
+眼影 - 1
+bounds:81,68,31,27
+offsets:2,0,34,27
+rotate:270
+眼影 - 2
+bounds:91,258,23,24
+offsets:0,0,24,24
+眼白 - 1
+bounds:81,651,23,15
+眼白 - 2
+bounds:103,30,18,13
+rotate:90
+耳坠前
+bounds:79,30,13,22
+rotate:90
+耳坠后
+bounds:15,32,13,22
+rotate:90
+脖子
+bounds:93,13,21,15
+脸
+bounds:0,570,88,96
+offsets:0,1,88,97
+腿1
+bounds:0,217,32,66
+rotate:270
+腿2
+bounds:88,587,24,62
+闭眼 - 1
+bounds:55,39,22,18
+闭眼 - 2
+bounds:0,70,34,16
+鬓角前
+bounds:106,400,12,30
+鬓角后
+bounds:108,120,9,17

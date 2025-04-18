@@ -1,0 +1,482 @@
+
+qin.png
+size: 1651,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手_大指
+  rotate: false
+  xy: 1083, 23
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+右手_大臂
+  rotate: false
+  xy: 840, 95
+  size: 208, 196
+  orig: 208, 196
+  offset: 0, 0
+  index: -1
+右手_小臂
+  rotate: false
+  xy: 1366, 136
+  size: 131, 57
+  orig: 131, 57
+  offset: 0, 0
+  index: -1
+右手_蝴蝶结
+  rotate: false
+  xy: 1502, 11
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+右手_蝴蝶结票带
+  rotate: false
+  xy: 1522, 442
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+右手_飞袖
+  rotate: false
+  xy: 1479, 206
+  size: 41, 93
+  orig: 41, 93
+  offset: 0, 0
+  index: -1
+右手掌
+  rotate: false
+  xy: 975, 29
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+右眼_下眼皮
+  rotate: false
+  xy: 1479, 195
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+右眼_双眼皮
+  rotate: false
+  xy: 1264, 465
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+右眼_眼珠
+  rotate: false
+  xy: 1104, 949
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+右眼_眼白
+  rotate: false
+  xy: 1264, 477
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+右眼_睫毛
+  rotate: false
+  xy: 963, 650
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+右眼_高光
+  rotate: false
+  xy: 776, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: false
+  xy: 2, 188
+  size: 259, 1096
+  orig: 259, 1096
+  offset: 0, 0
+  index: -1
+右裤角
+  rotate: false
+  xy: 1110, 297
+  size: 179, 146
+  orig: 179, 146
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: false
+  xy: 1083, 2
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+头发_刘海
+  rotate: false
+  xy: 1425, 301
+  size: 92, 162
+  orig: 92, 162
+  offset: 0, 0
+  index: -1
+头发_右下
+  rotate: false
+  xy: 1287, 136
+  size: 77, 159
+  orig: 77, 159
+  offset: 0, 0
+  index: -1
+头发_右长辫
+  rotate: false
+  xy: 1511, 1065
+  size: 103, 219
+  orig: 103, 219
+  offset: 0, 0
+  index: -1
+头发_右长辫_细
+  rotate: false
+  xy: 776, 11
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+头发_后碎发
+  rotate: false
+  xy: 1511, 959
+  size: 136, 104
+  orig: 136, 104
+  offset: 0, 0
+  index: -1
+头发_头顶后发
+  rotate: false
+  xy: 1366, 195
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+头发_左长辫
+  rotate: false
+  xy: 963, 679
+  size: 139, 296
+  orig: 139, 296
+  offset: 0, 0
+  index: -1
+头发_左长辫下
+  rotate: false
+  xy: 1450, 44
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+头发_散毛
+  rotate: false
+  xy: 503, 540
+  size: 20, 98
+  orig: 20, 98
+  offset: 0, 0
+  index: -1
+头发_散毛2
+  rotate: false
+  xy: 1616, 1210
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+头发_长辫2
+  rotate: false
+  xy: 1291, 316
+  size: 132, 147
+  orig: 132, 147
+  offset: 0, 0
+  index: -1
+头发_马尾
+  rotate: false
+  xy: 543, 349
+  size: 326, 289
+  orig: 326, 289
+  offset: 0, 0
+  index: -1
+头发发光
+  rotate: false
+  xy: 1519, 311
+  size: 92, 129
+  orig: 92, 129
+  offset: 0, 0
+  index: -1
+左_闭眼
+  rotate: false
+  xy: 1522, 179
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+左手_中指
+  rotate: false
+  xy: 1026, 648
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+左手_大指
+  rotate: false
+  xy: 1522, 231
+  size: 108, 78
+  orig: 108, 78
+  offset: 0, 0
+  index: -1
+左手_大臂_无带
+  rotate: false
+  xy: 871, 404
+  size: 210, 234
+  orig: 210, 234
+  offset: 0, 0
+  index: -1
+左手_大臂带子1
+  rotate: false
+  xy: 1502, 64
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+左手_大臂带子2
+  rotate: false
+  xy: 1049, 2
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+左手_小手臂
+  rotate: false
+  xy: 2, 29
+  size: 250, 157
+  orig: 250, 157
+  offset: 0, 0
+  index: -1
+左手_小指
+  rotate: false
+  xy: 840, 315
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+左手_手掌
+  rotate: false
+  xy: 1516, 700
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+左手_无名指
+  rotate: false
+  xy: 1614, 94
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+左手_食指
+  rotate: false
+  xy: 2, 6
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 263, 499
+  size: 238, 785
+  orig: 238, 785
+  offset: 0, 0
+  index: -1
+左裤角
+  rotate: false
+  xy: 1340, 569
+  size: 187, 129
+  orig: 187, 129
+  offset: 0, 0
+  index: -1
+眉毛
+  rotate: false
+  xy: 1302, 42
+  size: 130, 31
+  orig: 130, 31
+  offset: 0, 0
+  index: -1
+背后玫瑰
+  rotate: false
+  xy: 1559, 85
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+胸_上身
+  rotate: false
+  xy: 263, 203
+  size: 278, 294
+  orig: 278, 294
+  offset: 0, 0
+  index: -1
+脸
+  rotate: false
+  xy: 1104, 681
+  size: 196, 264
+  orig: 196, 264
+  offset: 0, 0
+  index: -1
+腰部
+  rotate: false
+  xy: 1147, 947
+  size: 362, 337
+  orig: 362, 337
+  offset: 0, 0
+  index: -1
+腰部发光
+  rotate: false
+  xy: 1050, 57
+  size: 77, 234
+  orig: 77, 234
+  offset: 0, 0
+  index: -1
+膝盖发光
+  rotate: false
+  xy: 1083, 445
+  size: 179, 232
+  orig: 179, 232
+  offset: 0, 0
+  index: -1
+蝴蝶结1
+  rotate: false
+  xy: 1340, 465
+  size: 180, 102
+  orig: 180, 102
+  offset: 0, 0
+  index: -1
+蝴蝶结2
+  rotate: false
+  xy: 263, 101
+  size: 260, 100
+  orig: 260, 100
+  offset: 0, 0
+  index: -1
+蝴蝶结3
+  rotate: false
+  xy: 1129, 42
+  size: 171, 60
+  orig: 171, 60
+  offset: 0, 0
+  index: -1
+裙摆1A
+  rotate: false
+  xy: 543, 153
+  size: 295, 194
+  orig: 295, 194
+  offset: 0, 0
+  index: -1
+裙摆1B
+  rotate: false
+  xy: 525, 6
+  size: 249, 145
+  orig: 249, 145
+  offset: 0, 0
+  index: -1
+裙摆1C
+  rotate: false
+  xy: 254, 14
+  size: 174, 85
+  orig: 174, 85
+  offset: 0, 0
+  index: -1
+裙摆1D
+  rotate: false
+  xy: 503, 977
+  size: 642, 307
+  orig: 642, 307
+  offset: 0, 0
+  index: -1
+裙摆2A
+  rotate: false
+  xy: 1302, 700
+  size: 212, 245
+  orig: 212, 245
+  offset: 0, 0
+  index: -1
+裙摆2B
+  rotate: false
+  xy: 430, 18
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+裙摆2C
+  rotate: false
+  xy: 503, 640
+  size: 458, 335
+  orig: 458, 335
+  offset: 0, 0
+  index: -1
+锁链1
+  rotate: false
+  xy: 1302, 75
+  size: 146, 59
+  orig: 146, 59
+  offset: 0, 0
+  index: -1
+锁链2
+  rotate: false
+  xy: 1614, 129
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+锁链投影
+  rotate: false
+  xy: 838, 19
+  size: 135, 74
+  orig: 135, 74
+  offset: 0, 0
+  index: -1
+鞋子1
+  rotate: false
+  xy: 1529, 532
+  size: 106, 166
+  orig: 106, 166
+  offset: 0, 0
+  index: -1
+鞋子2
+  rotate: false
+  xy: 1264, 508
+  size: 74, 171
+  orig: 74, 171
+  offset: 0, 0
+  index: -1
+鞋带1
+  rotate: false
+  xy: 871, 293
+  size: 237, 109
+  orig: 237, 109
+  offset: 0, 0
+  index: -1
+鞋带2
+  rotate: false
+  xy: 1129, 104
+  size: 156, 191
+  orig: 156, 191
+  offset: 0, 0
+  index: -1
+鞋带3
+  rotate: false
+  xy: 1516, 790
+  size: 114, 167
+  orig: 114, 167
+  offset: 0, 0
+  index: -1
+飞袖_补
+  rotate: false
+  xy: 1083, 411
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

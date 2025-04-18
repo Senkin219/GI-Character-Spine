@@ -1,0 +1,148 @@
+liyue_ganyu.png
+size:316,269
+filter:Linear,Linear
+scale:0.16
+刘海 的複製 2
+bounds:0,0,83,95
+rotate:90
+刘海右
+bounds:95,120,40,65
+刘海左
+bounds:145,160,30,52
+rotate:90
+前小臂 2
+bounds:247,36,19,27
+前小臂 2 的複製 3
+bounds:183,140,18,15
+rotate:90
+右大拇指
+bounds:286,0,10,8
+右大腿
+bounds:150,4,23,39
+rotate:90
+右大臂
+bounds:287,154,17,29
+rotate:90
+右小腿
+bounds:225,25,20,45
+右手
+bounds:299,60,17,16
+后大臂 2
+bounds:254,90,21,24
+后层头发 2
+bounds:138,192,59,77
+后层头发 的複製
+bounds:137,129,29,44
+rotate:90
+呆毛 2
+bounds:255,162,40,30
+rotate:90
+嘴
+bounds:247,65,5,3
+rotate:90
+头 2
+bounds:0,85,93,100
+头发
+bounds:0,187,136,82
+尾羽
+bounds:200,113,52,49
+左大腿
+bounds:97,0,24,43
+rotate:90
+左小腿
+bounds:254,116,21,44
+offsets:0,0,35,44
+左小臂
+bounds:191,0,29,32
+rotate:90
+带子
+bounds:252,3,14,31
+offsets:0,0,16,31
+最后一层尾羽1 2
+bounds:277,121,20,31
+最后一层尾羽1 的複製 2
+bounds:299,122,17,30
+本体笔 2
+bounds:268,4,16,28
+残影
+bounds:299,78,17,19
+残影笔 2
+bounds:252,65,23,23
+残影笔画
+bounds:191,75,7,8
+烟雾(头） - 1
+bounds:199,204,68,65
+烟雾(头） - 2
+bounds:299,28,10,13
+烟雾(头） - 3
+bounds:95,85,33,48
+rotate:90
+犄角 - 1
+bounds:269,205,64,46
+rotate:90
+犄角 - 2
+bounds:97,26,57,51
+rotate:90
+眉毛 - 1
+bounds:142,3,21,6
+rotate:90
+眉毛 - 2
+bounds:137,168,17,6
+rotate:90
+眼影 - 1
+bounds:183,129,9,10
+rotate:90
+眼影 - 2
+bounds:298,0,8,10
+rotate:90
+眼珠 - 1
+bounds:299,99,17,21
+眼珠 - 2
+bounds:298,43,15,18
+rotate:90
+眼白 - 1
+bounds:277,95,24,20
+rotate:90
+眼白 - 2
+bounds:277,74,20,19
+睫毛 - 1
+bounds:287,173,30,29
+rotate:90
+睫毛 - 2
+bounds:225,0,25,23
+背后头发1
+bounds:199,164,38,54
+rotate:90
+背后头发2
+bounds:175,85,23,42
+节
+bounds:280,34,13,16
+rotate:90
+蝴蝶结 2
+bounds:145,85,42,28
+rotate:90
+衣摆1
+bounds:280,49,13,23
+账本 2
+bounds:150,29,54,39
+rotate:90
+身体 2
+bounds:200,72,39,50
+offsets:15,11,61,70
+rotate:90
+身体1
+bounds:191,31,32,39
+闭眼 - 1
+bounds:286,10,22,11
+rotate:90
+闭眼 - 2
+bounds:268,34,29,10
+rotate:90
+高光 - 1
+bounds:137,122,5,6
+rotate:90
+高光 - 2
+bounds:137,122,5,6
+rotate:90
+鼻子
+bounds:295,69,2,3

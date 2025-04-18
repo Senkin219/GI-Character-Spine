@@ -1,0 +1,128 @@
+liyue_hutao.png
+size:361,205
+filter:Linear,Linear
+scale:0.16
+YB - 1
+bounds:67,65,26,21
+YB - 2
+bounds:319,61,21,20
+YK - 1
+bounds:115,4,31,17
+YK - 2
+bounds:327,33,24,16
+rotate:90
+YZ - 1
+bounds:327,10,18,21
+YZ - 2
+bounds:342,59,16,21
+右大腿
+bounds:119,19,28,68
+rotate:90
+右大臂
+bounds:327,183,28,17
+右小臂
+bounds:294,103,29,31
+offsets:0,0,30,31
+右手
+bounds:167,1,20,19
+头
+bounds:136,88,93,99
+头发 2 的複製
+bounds:7,7,29,54
+rotate:90
+头发 的複製 2
+bounds:301,172,32,33
+rotate:180
+头发1 2
+bounds:0,88,140,94
+左大腿
+bounds:280,139,30,66
+左大臂
+bounds:330,82,23,27
+rotate:90
+左小臂
+bounds:270,16,27,30
+带子1
+bounds:254,0,24,24
+rotate:180
+带子2 2
+bounds:320,123,34,31
+帽子
+bounds:223,69,136,71
+rotate:270
+帽子后
+bounds:0,183,134,22
+幽灵
+bounds:0,35,62,66
+rotate:270
+幽灵BQ - 1
+bounds:0,103,8,5
+幽灵BQ - 2
+bounds:120,110,13,12
+幽灵BQ - 3
+bounds:0,31,10,10
+幽灵S1
+bounds:36,168,22,14
+幽灵S2
+bounds:28,152,11,12
+张嘴
+bounds:60,174,13,8
+挂饰
+bounds:148,186,13,19
+挂饰A
+bounds:131,174,9,8
+眉毛 - 1
+bounds:136,184,21,5
+rotate:90
+眉毛 - 2
+bounds:102,177,16,5
+穂
+bounds:317,82,26,39
+绳
+bounds:221,2,31,27
+rotate:180
+花1
+bounds:299,6,25,26
+rotate:90
+花2
+bounds:189,15,30,31
+花3
+bounds:299,33,26,25
+rotate:90
+花4
+bounds:148,0,17,17
+花5
+bounds:342,120,17,17
+衣摆 2
+bounds:288,60,29,50
+衣摆1
+bounds:165,185,20,52
+rotate:90
+資料夾 3 的複製 2 2
+bounds:344,0,28,17
+rotate:90
+資料夾 3 的複製 3
+bounds:310,131,50,36
+rotate:90
+身体 2
+bounds:62,15,45,56
+rotate:270
+闭嘴
+bounds:143,192,13,3
+rotate:90
+闭眼 - 1
+bounds:55,2,28,11
+闭眼 - 2
+bounds:85,3,24,10
+马尾右
+bounds:98,47,61,96
+rotate:270
+马尾左
+bounds:221,29,50,76
+rotate:270
+高光 - 1
+bounds:14,87,5,5
+高光 - 2
+bounds:0,96,5,5
+鼻子
+bounds:40,163,3,3

@@ -1,0 +1,29 @@
+liyue_p13_ganyu.png
+size:505,361
+filter:Linear,Linear
+scale:0.8
+ganyu_mei_l_1
+bounds:0,81,51,106
+ganyu_mei_l_2
+bounds:0,345,16,98
+rotate:90
+ganyu_shou_r
+bounds:232,317,56,44
+ganyu_xiu_l
+bounds:0,3,132,48
+ganyu_xiu_r
+bounds:404,4,76,54
+图层 1
+bounds:446,60,51,60
+图层 2
+bounds:68,22,184,163
+图层 3
+bounds:348,12,72,96
+rotate:90
+图层 4
+bounds:217,0,84,129
+offsets:1,0,85,129
+rotate:90
+身体
+bounds:0,84,505,276
+offsets:0,46,505,322

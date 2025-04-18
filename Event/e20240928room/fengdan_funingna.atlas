@@ -1,0 +1,115 @@
+fengdan_funingna.png
+size:116,649
+filter:Linear,Linear
+scale:0.16
+QZ
+bounds:44,236,61,58
+rotate:180
+gg - 1
+bounds:110,15,6,5
+gg - 2
+bounds:0,561,6,6
+jm - 1
+bounds:46,9,26,17
+rotate:180
+jm - 2
+bounds:73,2,24,17
+mm - 1
+bounds:16,3,14,6
+mm - 2
+bounds:46,4,13,4
+yb - 1
+bounds:93,586,20,21
+yb - 2
+bounds:94,381,20,20
+yz - 1
+bounds:100,209,15,20
+yz - 2
+bounds:0,14,15,19
+rotate:90
+右大臂
+bounds:92,308,23,24
+rotate:90
+右小臂1
+bounds:32,21,26,25
+rotate:180
+右小臂2
+bounds:42,531,14,17
+后结
+bounds:21,5,25,23
+rotate:90
+大腿
+bounds:85,449,23,37
+大腿2
+bounds:91,53,22,36
+头
+bounds:0,550,93,99
+头发前1
+bounds:0,426,125,83
+rotate:90
+头发前2
+bounds:87,244,27,64
+rotate:180
+头发前3
+bounds:0,150,99,84
+头发前4
+bounds:32,114,52,67
+rotate:270
+头发前5
+bounds:0,630,15,19
+头发后1
+bounds:68,637,12,24
+rotate:270
+头发后2
+bounds:56,60,35,53
+rotate:180
+头发后3
+bounds:0,207,113,86
+rotate:90
+头发后4
+bounds:10,45,38,42
+rotate:270
+头发后5
+bounds:71,497,39,87
+rotate:180
+头发后6
+bounds:0,531,26,40
+rotate:90
+头发后7
+bounds:51,29,63,27
+宝石结 副本
+bounds:68,403,43,44
+offsets:5,0,48,44
+小腿
+bounds:91,622,23,27
+小腿2
+bounds:95,91,20,27
+左大臂 副本
+bounds:99,129,16,30
+左小臂 1
+bounds:0,31,33,19
+左小臂 2
+bounds:0,520,14,15
+带 副本
+bounds:75,321,35,58
+帽 副本 2
+bounds:5,318,107,87
+rotate:270
+张嘴 副本
+bounds:0,2,14,10
+脚
+bounds:98,0,17,14
+脚2
+bounds:100,483,16,13
+身体 副本
+bounds:14,80,49,50
+rotate:270
+身体后
+bounds:77,156,53,31
+rotate:270
+闭嘴
+bounds:61,3,12,4
+闭眼 - 1
+bounds:61,28,23,14
+闭眼 - 2
+bounds:86,16,21,12

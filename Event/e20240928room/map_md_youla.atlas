@@ -1,0 +1,138 @@
+map_md_youla.png
+size:808,110
+filter:Linear,Linear
+scale:0.16
+刘海
+bounds:574,31,35,63
+rotate:90
+刘海2
+bounds:639,40,85,70
+offsets:0,25,85,95
+发丝
+bounds:253,1,19,55
+rotate:90
+发带
+bounds:298,53,106,57
+右刘海
+bounds:221,22,88,75
+rotate:90
+右耳发
+bounds:298,23,28,50
+rotate:90
+右耳发0
+bounds:350,28,23,59
+rotate:90
+右腿
+bounds:356,2,24,55
+offsets:0,2,25,57
+rotate:90
+嘴
+bounds:198,0,11,8
+rotate:90
+头
+bounds:128,13,91,97
+尾发
+bounds:0,2,108,126
+offsets:0,5,108,131
+rotate:90
+左刘海
+bounds:406,62,48,92
+rotate:90
+左大腿s
+bounds:606,2,27,15
+offsets:0,0,31,15
+rotate:90
+左耳发
+bounds:726,57,53,71
+rotate:90
+左腿
+bounds:411,29,31,58
+offsets:1,0,32,58
+rotate:90
+披风前
+bounds:500,63,47,62
+rotate:90
+披风后
+bounds:726,3,52,62
+rotate:90
+眉毛
+bounds:128,3,48,8
+眼白 - 1
+bounds:790,11,17,20
+眼白 - 2
+bounds:310,1,22,20
+眼皮 - 1
+bounds:702,12,19,12
+眼皮 - 2
+bounds:223,0,28,15
+瞳孔 - 1
+bounds:662,3,15,20
+rotate:90
+瞳孔 - 2
+bounds:640,0,16,20
+rotate:90
+肩发
+bounds:208,1,10,7
+rotate:90
+花
+bounds:586,6,18,23
+花上
+bounds:471,29,31,36
+rotate:90
+花下
+bounds:413,1,26,36
+rotate:90
+身体
+bounds:564,68,42,53
+offsets:1,1,48,54
+rotate:90
+闭嘴微笑
+bounds:217,0,11,4
+rotate:90
+闭眼 - 1
+bounds:178,0,18,11
+闭眼 - 2
+bounds:699,26,22,12
+默认1右手 默认
+bounds:559,0,25,27
+默认2右手 默认
+bounds:681,20,18,16
+rotate:90
+默认左大臂
+bounds:661,20,18,18
+offsets:0,3,22,21
+默认左大臂0
+bounds:451,3,24,36
+rotate:90
+默认左手掌
+bounds:640,18,20,19
+rotate:90
+默认左袖子里
+bounds:509,29,32,33
+rotate:90
+默认胸前徽章
+bounds:790,33,18,22
+鼓掌1右手鼓掌
+bounds:527,4,23,30
+rotate:90
+鼓掌1左手 鼓掌
+bounds:544,29,28,32
+鼓掌2右手鼓掌
+bounds:619,71,12,17
+rotate:90
+鼓掌2左手 鼓掌
+bounds:684,1,16,17
+offsets:0,0,16,18
+鼓掌3左手 鼓掌
+bounds:623,2,15,27
+offsets:0,0,16,27
+鼓掌右大臂
+bounds:489,3,24,36
+rotate:90
+鼓掌胸前徽章
+bounds:334,0,21,20
+rotate:90
+鼓掌领带
+bounds:619,85,16,25
+鼻子
+bounds:221,17,3,3

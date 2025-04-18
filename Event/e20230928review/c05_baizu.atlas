@@ -1,0 +1,135 @@
+c05_baizu.png
+size:1889,840
+filter:Linear,Linear
+scale:0.5
+2
+bounds:1679,333,160,222
+yj
+bounds:1281,146,246,61
+yj2
+bounds:1729,48,18,75
+rotate:90
+yj3
+bounds:1823,77,21,30
+yj4
+bounds:1679,317,14,22
+rotate:90
+yjh
+bounds:1693,139,32,24
+zs1 - 1
+bounds:1841,461,40,94
+zs1 - 2
+bounds:1130,12,39,94
+rotate:90
+zs2
+bounds:520,1,66,36
+光
+bounds:1,120,480,719
+勺
+bounds:788,52,39,51
+rotate:90
+右边手
+bounds:751,93,135,190
+rotate:90
+右边腿h
+bounds:1130,53,133,109
+右边腿q
+bounds:483,132,96,266
+rotate:90
+嘴
+bounds:944,434,44,10
+rotate:90
+坐
+bounds:483,230,473,144
+offsets:1,0,475,145
+头发1
+bounds:958,164,314,321
+rotate:90
+头发2
+bounds:1531,315,146,240
+头发3
+bounds:1461,557,282,425
+rotate:90
+头发4
+bounds:1729,109,111,54
+头发5
+bounds:407,4,114,111
+rotate:90
+头发后
+bounds:1629,36,101,98
+rotate:90
+头发后 - 1
+bounds:1729,68,39,92
+rotate:90
+头发后 - 2
+bounds:483,376,459,463
+左边手
+bounds:660,49,72,81
+左边手2
+bounds:1531,203,110,178
+rotate:90
+左边腿h
+bounds:1,1,145,117
+左边腿q
+bounds:148,2,116,257
+rotate:90
+披风1
+bounds:943,1,185,161
+披风2
+bounds:1729,1,45,61
+rotate:90
+披风3
+bounds:944,480,515,359
+offsets:0,8,545,367
+眉毛 - 1
+bounds:943,169,59,13
+rotate:90
+眉毛 - 2
+bounds:588,14,69,23
+眼白 - 1
+bounds:734,52,52,39
+眼白 - 2
+bounds:1841,380,79,45
+rotate:90
+眼眶 - 1
+bounds:1461,484,71,53
+rotate:90
+眼眶 - 2
+bounds:1457,43,101,59
+rotate:90
+瞳孔 - 1
+bounds:1841,337,37,41
+瞳孔 - 2
+bounds:1842,120,46,43
+offsets:0,0,47,43
+碗
+bounds:520,39,138,91
+篮子1
+bounds:1529,139,162,62
+offsets:1,0,164,62
+篮子2
+bounds:1518,29,109,108
+脸
+bounds:1281,209,269,248
+rotate:90
+蛇
+bounds:1711,165,167,166
+蛇1
+bounds:1226,1,50,29
+rotate:90
+蛇2
+bounds:483,120,10,10
+蛇3
+bounds:900,68,35,23
+蛇4
+bounds:1265,61,190,83
+闭眼 - 1
+bounds:841,63,57,28
+闭眼 - 2
+bounds:1629,1,77,33
+高光 - 1
+bounds:1265,147,15,14
+rotate:90
+高光 - 2
+bounds:1516,539,16,13
+rotate:90
