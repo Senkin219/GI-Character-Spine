@@ -1,6 +1,6 @@
 # GI-Character-Spine
 
-<img src="walk.gif" width="150"/><img src="greet.gif" width="150"/>
+<img src="./GIF/walk.gif" width="150"/><img src="./GIF/greet.gif" width="150"/>
 
 A collection of Spine models of Genshin Impact characters from web events and in-game.
 
