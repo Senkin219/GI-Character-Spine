@@ -1,0 +1,511 @@
+Beyd_Eff_UI_UGCRecommendPage_Bg_ActivityScoreLevel_Spine.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.79
+Ball1
+bounds:0,503,519,517
+offsets:1,0,520,517
+Dot01
+bounds:448,871,81,83
+offsets:0,1,81,84
+rotate:90
+Dot02
+bounds:271,128,67,78
+offsets:0,0,68,80
+rotate:90
+Dot03
+bounds:619,395,79,123
+offsets:0,0,81,124
+rotate:90
+Star_Trail02_2
+bounds:112,335,116,290
+offsets:1,0,118,293
+rotate:270
+Trail01
+bounds:0,113,669,457
+offsets:0,0,1255,460
+Trail02
+bounds:63,385,834,376
+offsets:0,0,837,376
+Trail09
+bounds:343,30,863,649
+rotate:90
+bozi 副本
+bounds:0,0,79,86
+offsets:2,2,84,91
+rotate:270
+houfa_1 副本
+bounds:0,75,192,218
+offsets:1,2,195,222
+houfa_2 副本
+bounds:432,319,80,210
+offsets:2,3,85,215
+rotate:90
+huangguan_2 副本
+bounds:976,593,38,84
+offsets:3,4,43,90
+lian 副本
+bounds:141,35,169,165
+offsets:20,23,194,209
+pifenghuawen_3 副本
+bounds:722,645,347,271
+offsets:1,2,348,275
+rotate:90
+toufa_12 副本
+bounds:0,501,83,127
+offsets:3,2,90,131
+toufa_5 副本
+bounds:0,924,112,96
+offsets:2,3,116,101
+toufa_8 副本
+bounds:979,742,39,119
+offsets:2,2,44,123
+toufa_9 副本
+bounds:98,0,85,249
+offsets:1,2,87,253
+rotate:270
+toushi_ 副本
+bounds:733,239,160,251
+offsets:0,0,161,253
+toushi_1 副本
+bounds:845,486,54,110
+offsets:2,0,58,112
+tuishi_1 副本
+bounds:62,293,48,58
+offsets:2,2,50,62
+tuishi_10 副本
+bounds:665,262,132,228
+offsets:3,10,139,239
+tuishi_5 副本
+bounds:924,8,100,288
+offsets:2,4,104,294
+tuishi_6 副本
+bounds:778,951,69,106
+offsets:2,3,73,110
+rotate:90
+tuishi_8 副本
+bounds:389,87,63,67
+offsets:1,4,68,73
+rotate:90
+tuishi_9 副本
+bounds:405,944,76,104
+offsets:2,3,79,110
+rotate:90
+weijin_3 副本
+bounds:518,764,68,42
+offsets:2,3,74,47
+weijin_4 副本
+bounds:878,984,51,36
+offsets:2,2,57,40
+yifu_2 副本
+bounds:668,146,94,93
+offsets:2,2,98,98
+rotate:90
+yifuhuawen_1 副本
+bounds:884,830,135,190
+offsets:2,1,140,191
+yifuhuawen_2 副本
+bounds:510,769,221,251
+offsets:3,2,228,253
+youhoubi 副本
+bounds:766,5,163,105
+offsets:2,2,168,107
+rotate:180
+youmei 副本
+bounds:133,1002,25,18
+offsets:2,4,32,25
+youshangjiemao_1 副本
+bounds:37,1007,13,9
+offsets:2,3,20,16
+youshangjiemao_2 副本
+bounds:147,1008,13,12
+offsets:2,3,21,18
+youshangyankuang 副本
+bounds:145,491,36,30
+offsets:3,2,43,37
+youshouzhangxian 副本
+bounds:81,491,62,65
+offsets:1,3,67,70
+rotate:90
+youshouzhi_1 副本
+bounds:778,711,44,53
+offsets:2,3,49,58
+youshouzhi_2 副本
+bounds:638,333,27,57
+offsets:2,3,32,62
+youshouzhi_3 副本
+bounds:400,321,35,61
+offsets:3,2,41,66
+youshouzhi_4 副本
+bounds:732,968,44,52
+offsets:2,2,47,58
+youshouzhi_5 副本
+bounds:66,58,46,35
+offsets:1,1,48,38
+youxiajiemao_1 副本
+bounds:31,1012,5,8
+offsets:3,3,12,13
+youxiajiemao_2 副本
+bounds:0,992,5,5
+offsets:3,3,12,12
+youxiu_1 副本
+bounds:454,80,60,46
+offsets:2,2,66,50
+youxiu_4 副本
+bounds:315,4,49,112
+offsets:2,2,55,115
+rotate:90
+youxiu_6 副本
+bounds:0,275,71,114
+offsets:2,3,77,119
+youyanbai 副本
+bounds:0,885,36,38
+offsets:2,2,41,43
+youyangaoguang_1 副本
+bounds:21,1000,16,17
+offsets:0,2,17,21
+youyanjiao 副本
+bounds:0,977,15,16
+offsets:2,3,20,21
+youyanpixian 副本
+bounds:41,922,12,6
+offsets:3,3,20,12
+youyanzhu 副本
+bounds:505,837,27,33
+offsets:2,3,32,39
+zuohoubi 副本
+bounds:662,746,120,127
+offsets:2,4,124,133
+rotate:270
+zuomei 副本
+bounds:480,1005,42,15
+offsets:3,3,49,21
+zuoshangjiemao_1 副本
+bounds:0,853,10,15
+offsets:3,3,17,20
+zuoshangjiemao_2 副本
+bounds:30,910,12,15
+offsets:3,3,19,20
+zuoshangyankuang 副本
+bounds:351,998,48,22
+offsets:2,4,54,28
+zuoshouzhi_1 副本
+bounds:0,994,23,26
+offsets:3,3,29,32
+zuoshouzhi_10 副本
+bounds:0,867,23,24
+offsets:3,2,28,28
+zuoshouzhi_4 副本
+bounds:63,552,29,22
+offsets:2,3,33,29
+zuoshouzhi_7 副本
+bounds:0,635,26,28
+offsets:2,1,32,32
+zuoxiajiemao_1 副本
+bounds:22,1016,4,4
+offsets:3,4,12,11
+zuoxiajiemao_2 副本
+bounds:0,1014,6,6
+offsets:2,3,13,12
+zuoxiu_5 副本
+bounds:700,16,66,45
+offsets:2,3,73,51
+zuoxiu_6 副本
+bounds:785,351,51,79
+offsets:1,0,53,82
+zuoyanbai 副本
+bounds:838,915,41,38
+offsets:3,3,48,43
+zuoyangaoguang_1 副本
+bounds:97,972,14,17
+offsets:1,1,17,20
+zuoyanjiao 副本
+bounds:0,841,8,19
+offsets:3,1,14,24
+zuoyanpixian 副本
+bounds:159,1007,14,13
+offsets:2,2,17,17
+zuoyanzhu 副本
+bounds:106,984,28,35
+offsets:2,2,35,40
+图层 7
+bounds:0,382,33,66
+offsets:2,2,39,68
+
+Beyd_Eff_UI_UGCRecommendPage_Bg_ActivityScoreLevel_Spine_2.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.79
+B_Star01
+bounds:536,249,241,235
+Sidai01
+bounds:488,89,419,158
+offsets:0,1,419,160
+Sidai02
+bounds:841,602,169,225
+offsets:0,2,171,228
+Sidai03_1
+bounds:438,0,546,274
+offsets:0,1,1001,275
+rotate:180
+Sidai04
+bounds:698,271,326,223
+offsets:2,1,348,239
+rotate:180
+Star01
+bounds:216,185,241,235
+Star_Deco1
+bounds:378,893,120,138
+offsets:1,4,124,145
+rotate:270
+Star_Deco10
+bounds:355,516,170,167
+offsets:24,3,198,172
+rotate:270
+Star_Deco10_1
+bounds:101,930,77,81
+offsets:0,4,81,86
+rotate:180
+Star_Deco11
+bounds:325,891,124,96
+offsets:2,2,127,99
+rotate:90
+Star_Deco12_1
+bounds:450,708,118,123
+offsets:0,7,122,130
+rotate:90
+Star_Deco13
+bounds:701,795,135,138
+offsets:2,3,140,144
+Star_Deco13_1
+bounds:0,953,62,62
+offsets:0,6,65,68
+Star_Deco14
+bounds:295,652,137,156
+offsets:2,3,142,161
+Star_Deco2
+bounds:0,654,134,178
+offsets:1,3,138,184
+rotate:90
+Star_Deco3
+bounds:804,749,163,154
+offsets:9,3,175,159
+Star_Deco4
+bounds:739,642,207,148
+offsets:3,3,212,152
+rotate:180
+Star_Deco5
+bounds:473,903,128,110
+offsets:4,2,191,115
+rotate:180
+Star_Deco7
+bounds:545,893,131,99
+offsets:2,2,135,104
+rotate:180
+Star_Deco8
+bounds:792,395,232,174
+offsets:3,2,239,179
+rotate:180
+Star_Deco9
+bounds:362,831,119,96
+offsets:3,3,126,101
+Star_Trail01_1
+bounds:194,892,106,112
+offsets:3,2,126,114
+rotate:90
+Star_Trail01_2
+bounds:466,689,109,387
+offsets:0,0,201,399
+rotate:90
+Star_Trail02_1
+bounds:82,75,248,219
+offsets:2,2,251,223
+rotate:180
+Star_Trail03_1
+bounds:620,830,128,130
+offsets:3,3,134,135
+Star_Trail03_2
+bounds:645,828,187,230
+offsets:4,3,191,234
+rotate:90
+Star_Trail04_1
+bounds:332,336,187,206
+offsets:2,4,191,211
+rotate:90
+Star_Trail04_2
+bounds:688,528,133,297
+offsets:0,0,135,299
+rotate:90
+Star_Trail05
+bounds:434,584,124,253
+offsets:0,3,126,258
+rotate:270
+Trail07
+bounds:0,490,410,104
+offsets:0,1,410,108
+Trail08
+bounds:453,461,480,120
+offsets:1,4,483,125
+houfa_3 副本
+bounds:152,726,136,187
+offsets:1,1,140,188
+rotate:90
+huangguan_1 副本
+bounds:0,924,114,68
+offsets:2,0,120,70
+huangguan_3 副本
+bounds:169,921,157,94
+offsets:1,2,161,96
+toufa_1 副本
+bounds:279,808,63,209
+offsets:1,1,67,210
+rotate:270
+toufa_11 副本
+bounds:784,863,152,91
+offsets:2,3,163,96
+rotate:270
+toufa_2 副本
+bounds:209,605,121,210
+offsets:1,0,124,210
+rotate:90
+toufa_6 副本
+bounds:567,786,79,111
+offsets:1,3,83,117
+rotate:90
+toufagaoguang 副本
+bounds:0,368,228,133
+offsets:1,3,232,137
+weijin_1 副本
+bounds:702,596,138,116
+offsets:0,4,141,122
+weijin_5 副本
+bounds:327,77,160,134
+offsets:1,2,164,137
+weijin_6 副本
+bounds:0,786,120,87
+offsets:2,2,126,92
+rotate:180
+weijin_7 副本
+bounds:416,164,151,137
+offsets:1,3,156,143
+youtuijia_2 副本 2
+bounds:0,849,77,123
+offsets:0,1,81,136
+rotate:90
+youxiu_2 副本
+bounds:99,284,130,121
+offsets:2,4,136,128
+youxiu_5 副本
+bounds:497,837,105,75
+offsets:2,3,109,81
+zuoxiu_1 副本
+bounds:48,591,138,91
+offsets:1,1,141,94
+zuoxiu_4 副本
+bounds:197,833,140,85
+offsets:2,3,142,90
+zuoxiu_8 副本
+bounds:94,720,104,96
+offsets:3,3,111,102
+zuoxiu_9 副本
+bounds:500,515,121,121
+offsets:1,3,125,126
+rotate:90
+图层 1
+bounds:123,519,106,205
+offsets:2,1,112,207
+rotate:90
+图层 4
+bounds:101,844,97,102
+offsets:1,0,100,103
+rotate:270
+图层 9
+bounds:17,1,239,187
+offsets:1,5,242,192
+rotate:180
+
+Beyd_Eff_UI_UGCRecommendPage_Bg_ActivityScoreLevel_Spine_3.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.79
+B_Star_Trail10
+bounds:0,2,411,165
+offsets:63,7,927,245
+rotate:90
+B_Star_Trail10_1
+bounds:0,451,562,277
+offsets:569,0,1160,306
+rotate:180
+B_Trail01
+bounds:0,558,669,457
+offsets:0,0,1255,460
+B_Trail01_1
+bounds:438,280,457,312
+offsets:421,9,878,322
+Sidai05_1
+bounds:0,61,457,457
+offsets:362,157,819,616
+rotate:180
+Star_Trail10
+bounds:606,10,411,165
+offsets:63,7,927,245
+Star_Trail10_1
+bounds:209,738,562,277
+offsets:569,0,1160,306
+Star_Trail12
+bounds:200,0,459,338
+offsets:70,0,597,363
+rotate:90
+Trail01_1
+bounds:712,407,457,312
+offsets:421,9,878,322
+rotate:270
+pifengxingxing_1 副本
+bounds:581,65,380,231
+
+Beyd_Eff_UI_UGCRecommendPage_Bg_ActivityScoreLevel_Spine_4.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.79
+B_Star02
+bounds:0,700,218,217
+offsets:0,0,221,217
+B_Star_Trail11
+bounds:398,179,626,292
+offsets:65,3,698,324
+rotate:180
+B_Star_Trail12
+bounds:565,276,459,338
+offsets:70,0,597,363
+rotate:180
+Sidai03
+bounds:28,317,528,165
+offsets:473,1,1001,275
+rotate:180
+Sidai05
+bounds:523,670,464,247
+offsets:0,0,819,616
+Star02
+bounds:156,700,218,217
+offsets:0,0,221,217
+rotate:180
+Star_Deco12
+bounds:365,660,264,257
+offsets:2,2,268,261
+rotate:180
+Star_Deco6
+bounds:522,545,372,265
+offsets:1,2,378,269
+Star_Trail11
+bounds:398,76,626,292
+offsets:65,3,698,324
+rotate:180
+Trail03
+bounds:123,511,885,250
+Trail04
+bounds:0,0,744,497
+Trail05
+bounds:184,402,728,248
+offsets:0,0,728,249
+Trail06
+bounds:298,353,625,199
