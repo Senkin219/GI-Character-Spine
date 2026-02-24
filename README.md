@@ -4,4 +4,5 @@
 
 A collection of Spine models of Genshin Impact characters from web events and in-game.
 
-Note: The official Spine runtime cannot play animations stored in the `extra` section of JSON files, as they are proprietary to miHoYo.
+**Note:** The official Spine runtime cannot play animations stored in the `extra` section of JSON files, as they are proprietary to miHoYo. You can use [my patched viewer](https://github.com/Senkin219/Spine-Viewer-Mhy) instead.
+
