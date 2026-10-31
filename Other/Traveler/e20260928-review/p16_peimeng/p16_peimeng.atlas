@@ -1,0 +1,55 @@
+p16_peimeng.png
+	size: 512, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.35
+cao
+	bounds: 214, 8, 38, 27
+	offsets: 3, 3, 45, 33
+icon_a
+	bounds: 492, 344, 12, 9
+	offsets: 3, 3, 18, 15
+icon_b
+	bounds: 254, 11, 23, 24
+	offsets: 3, 3, 29, 30
+icon_c
+	bounds: 491, 215, 19, 23
+	offsets: 3, 3, 25, 29
+icon_d
+	bounds: 492, 335, 11, 7
+	offsets: 3, 3, 17, 13
+icon_e
+	bounds: 492, 355, 17, 19
+	offsets: 3, 3, 23, 25
+icon_f
+	bounds: 492, 326, 7, 7
+	offsets: 3, 3, 14, 13
+墨镜
+	bounds: 154, 11, 58, 24
+	offsets: 3, 3, 64, 30
+头
+	bounds: 360, 58, 110, 81
+	offsets: 0, 5, 111, 86
+头冠
+	bounds: 360, 22, 60, 37
+手
+	bounds: 87, 8, 65, 27
+	offsets: 3, 3, 71, 33
+披风
+	bounds: 2, 2, 83, 33
+	offsets: 3, 3, 89, 39
+杯子
+	bounds: 471, 86, 37, 53
+	offsets: 1, 2, 39, 57
+椅子
+	bounds: 360, 240, 130, 134
+	offsets: 3, 3, 136, 140
+点点
+	bounds: 360, 141, 129, 97
+	offsets: 7, 8, 143, 110
+身体
+	bounds: 439, 13, 71, 66
+	offsets: 0, 0, 72, 66
+	rotate: 180
+遮阳伞
+	bounds: 2, 37, 356, 337
+	offsets: 3, 3, 362, 343

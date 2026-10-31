@@ -1,0 +1,79 @@
+{
+  "skeleton": {
+    "hash": "AsKa0uk1zuU",
+    "spine": "4.2.43",
+    "x": -131.97,
+    "y": -115.78,
+    "width": 263.94,
+    "height": 231.57
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.83,
+      "scaleY": 0.83
+    }
+  ],
+  "slots": [
+    {
+      "name": "确认版-1",
+      "bone": "root",
+      "attachment": "确认版-"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "确认版-1": {
+          "确认版-": {
+            "width": 318,
+            "height": 279,
+            "sequence": {
+              "count": 90,
+              "start": 3
+            }
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "attachments": {
+        "default": {
+          "确认版-1": {
+            "确认版-": {
+              "sequence": [
+                {
+                  "delay": 0.0556
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "animation": {
+      "attachments": {
+        "default": {
+          "确认版-1": {
+            "确认版-": {
+              "sequence": [
+                {
+                  "mode": "once",
+                  "delay": 0.0556
+                },
+                {
+                  "time": 5.3333,
+                  "mode": "once",
+                  "index": 84
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

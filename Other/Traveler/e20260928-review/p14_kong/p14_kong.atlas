@@ -1,0 +1,123 @@
+p14_kong.png
+	size: 154, 893
+	filter: Linear, Linear
+	scale: 0.35
+k/k_发_01
+	bounds: 95, 541, 57, 40
+	offsets: 34, 34, 125, 108
+k/k_发_02
+	bounds: 2, 820, 38, 71
+	offsets: 34, 35, 106, 140
+k/k_发_03
+	bounds: 79, 139, 37, 72
+	offsets: 34, 34, 105, 140
+	rotate: 90
+k/k_发_04
+	bounds: 10, 132, 64, 71
+	offsets: 34, 34, 132, 139
+	rotate: 90
+k/k_发_05
+	bounds: 2, 29, 60, 46
+	offsets: 33, 34, 127, 114
+	rotate: 180
+k/k_发_06
+	bounds: 127, 313, 27, 21
+	offsets: 34, 34, 96, 89
+	rotate: 90
+k/k_发_07
+	bounds: 4, 446, 130, 118
+	offsets: 33, 31, 193, 181
+k/k_发_08
+	bounds: 13, 90, 76, 45
+	offsets: 34, 34, 144, 113
+k/k_发_09
+	bounds: 2, 259, 116, 85
+	offsets: 38, 34, 188, 153
+k/k_发_10
+	bounds: 105, 669, 47, 75
+	offsets: 34, 34, 114, 143
+	rotate: 180
+k/k_发_10-1
+	bounds: 126, 3, 24, 44
+	offsets: 34, 34, 92, 112
+	rotate: 180
+k/k_发_11
+	bounds: 2, 560, 142, 117
+	offsets: 33, 34, 207, 183
+	rotate: 180
+k/k_发影子
+	bounds: 57, 280, 94, 88
+	offsets: 32, 33, 159, 155
+k/k_吊坠_01
+	bounds: 135, 151, 16, 19
+	offsets: 34, 34, 84, 88
+k/k_吊坠_02
+	bounds: 2, 874, 13, 17
+	offsets: 34, 34, 81, 85
+k/k_围巾
+	bounds: 2, 2, 24, 69
+	offsets: 34, 34, 92, 137
+	rotate: 90
+k/k_围巾挂坠
+	bounds: 40, 876, 12, 13
+	offsets: 34, 34, 80, 81
+k/k_围脖
+	bounds: 121, 611, 57, 28
+	offsets: 34, 34, 126, 96
+	rotate: 270
+k/k_手a
+	bounds: 82, 34, 65, 38
+	offsets: 34, 34, 134, 107
+k/k_手b
+	bounds: 71, 3, 15, 17
+	offsets: 34, 34, 83, 85
+k/k_披风a
+	bounds: 8, 44, 73, 70
+	offsets: 34, 34, 141, 138
+k/k_披风b
+	bounds: 77, 60, 45, 75
+	offsets: 34, 34, 113, 143
+	rotate: 90
+k/k_盘
+	bounds: 2, 176, 64, 60
+	offsets: 34, 34, 131, 127
+k/k_眉毛a
+	bounds: 138, 221, 56, 14
+	offsets: 34, 34, 125, 83
+	rotate: 90
+k/k_眼珠a
+	bounds: 60, 4, 66, 39
+	offsets: 34, 34, 135, 108
+	rotate: 180
+k/k_睫毛
+	bounds: 115, 445, 76, 36
+	offsets: 36, 33, 146, 103
+	rotate: 270
+k/k_耳坠
+	bounds: 18, 806, 16, 25
+	offsets: 35, 34, 85, 93
+k/k_脸
+	bounds: 2, 364, 102, 89
+	offsets: 33, 33, 168, 155
+	rotate: 180
+k/k_腿a
+	bounds: 92, 343, 57, 103
+	offsets: 34, 34, 125, 170
+k/k_腿b
+	bounds: 50, 215, 51, 92
+	offsets: 34, 34, 119, 159
+	rotate: 270
+k/k_身体
+	bounds: 79, 172, 53, 59
+	offsets: 34, 30, 121, 123
+	rotate: 90
+k/k_辫子
+	bounds: 58, 104, 89, 51
+	offsets: 33, 33, 153, 114
+	rotate: 180
+user_惊叹号
+	bounds: 2, 790, 24, 32
+	offsets: 34, 33, 91, 98
+user_装饰点
+	bounds: 2, 673, 150, 218
+	offsets: 12, 17, 171, 245

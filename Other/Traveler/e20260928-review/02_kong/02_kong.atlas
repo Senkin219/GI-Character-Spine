@@ -1,0 +1,56 @@
+02_kong.png
+	size: 181, 493
+	filter: Linear, Linear
+	scale: 0.35
+K_呆毛
+	bounds: 2, 2, 39, 27
+	offsets: 0, 1, 39, 28
+	rotate: 90
+K_围巾
+	bounds: 82, 17, 26, 48
+	offsets: 0, 0, 27, 48
+	rotate: 90
+K_头
+	bounds: 2, 191, 127, 112
+K_手L
+	bounds: 9, 15, 53, 41
+	offsets: 6, 5, 60, 46
+K_手R
+	bounds: 142, 40, 53, 35
+	rotate: 90
+K_披风_a
+	bounds: 123, 157, 51, 40
+K_披风_b
+	bounds: 2, 36, 84, 40
+K_披风_c
+	bounds: 86, 117, 90, 76
+	offsets: 0, 0, 91, 76
+	rotate: 180
+K_耳
+	bounds: 61, 4, 26, 26
+	offsets: 11, 11, 50, 48
+K_腿a
+	bounds: 128, 194, 94, 50
+	offsets: 10, 5, 114, 62
+	rotate: 270
+K_腿b
+	bounds: 2, 136, 93, 62
+K_身体
+	bounds: 78, 53, 44, 54
+	offsets: 21, 15, 85, 84
+	rotate: 270
+K_辫子
+	bounds: 57, 75, 104, 50
+icon_a
+	bounds: 131, 18, 20, 33
+	offsets: 2, 1, 24, 36
+	rotate: 90
+icon_b
+	bounds: 159, 273, 20, 30
+	offsets: 2, 2, 24, 34
+icon_c
+	bounds: 2, 92, 54, 44
+	offsets: 2, 2, 57, 48
+lizi
+	bounds: 2, 305, 175, 186
+	offsets: 6, 2, 183, 194

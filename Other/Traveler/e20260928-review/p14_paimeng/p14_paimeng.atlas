@@ -1,0 +1,113 @@
+p14_paimeng.png
+	size: 311, 214
+	filter: Linear, Linear
+	scale: 0.35
+P_发_01
+	bounds: 279, 131, 22, 61
+	offsets: 34, 34, 90, 129
+P_发_02
+	bounds: 214, 116, 35, 77
+	offsets: 34, 34, 103, 145
+	rotate: 180
+P_发_03
+	bounds: 242, 80, 27, 48
+	offsets: 35, 34, 97, 117
+P_发_04
+	bounds: 83, 18, 60, 41
+	offsets: 34, 39, 129, 114
+	rotate: 180
+P_发_05
+	bounds: 228, 18, 27, 65
+	offsets: 34, 34, 95, 133
+P_发_06
+	bounds: 249, 35, 40, 30
+	offsets: 34, 34, 108, 98
+	rotate: 270
+P_发_07
+	bounds: 69, 40, 109, 56
+	offsets: 33, 33, 175, 122
+	rotate: 180
+P_发_08
+	bounds: 234, 189, 23, 53
+	offsets: 34, 34, 91, 121
+	rotate: 90
+P_发_09
+	bounds: 233, 141, 30, 52
+	offsets: 34, 34, 98, 120
+	rotate: 180
+P_发_10
+	bounds: 2, 56, 65, 68
+	offsets: 34, 34, 133, 135
+	rotate: 270
+P_发影子
+	bounds: 202, 72, 52, 36
+	offsets: 34, 34, 119, 103
+	rotate: 270
+P_发饰
+	bounds: 170, 3, 17, 21
+	offsets: 34, 34, 85, 90
+P_右臂
+	bounds: 30, 18, 45, 50
+	offsets: 34, 34, 112, 117
+	rotate: 90
+P_围脖
+	bounds: 278, 22, 40, 24
+	offsets: 34, 34, 108, 92
+	rotate: 270
+P_头冠1
+	bounds: 2, 3, 19, 37
+	offsets: 34, 34, 87, 105
+	rotate: 90
+P_头冠2
+	bounds: 260, 124, 55, 26
+	offsets: 34, 34, 123, 95
+	rotate: 90
+P_左手
+	bounds: 2, 23, 36, 29
+	offsets: 34, 34, 104, 97
+	rotate: 90
+P_披风
+	bounds: 152, 69, 72, 57
+	offsets: 33, 33, 139, 125
+	rotate: 270
+P_眉毛a
+	bounds: 186, 7, 38, 13
+	offsets: 34, 34, 106, 81
+P_眼珠a
+	bounds: 69, 2, 42, 22
+	offsets: 34, 34, 111, 90
+	rotate: 180
+P_眼眶a
+	bounds: 163, 135, 47, 19
+	offsets: 34, 34, 116, 86
+P_脸
+	bounds: 159, 147, 65, 58
+	offsets: 33, 33, 132, 124
+	rotate: 90
+P_腿a
+	bounds: 263, 79, 38, 37
+	offsets: 34, 34, 106, 114
+	rotate: 270
+P_腿b
+	bounds: 285, 97, 37, 24
+	offsets: 34, 34, 105, 93
+	rotate: 90
+P_花(2)
+	bounds: 100, 8, 25, 35
+	offsets: 34, 34, 93, 104
+	rotate: 90
+P_花(3)
+	bounds: 142, 14, 22, 38
+	offsets: 34, 34, 90, 106
+	rotate: 270
+P_花1
+	bounds: 255, 6, 27, 32
+	offsets: 34, 34, 95, 100
+	rotate: 270
+P_装饰点
+	bounds: 2, 95, 162, 117
+	offsets: 25, 28, 208, 176
+P_身体
+	bounds: 173, 20, 48, 49
+	offsets: 34, 34, 117, 117
+	rotate: 180

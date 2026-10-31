@@ -1,0 +1,131 @@
+p14_ying.png
+	size: 163, 855
+	filter: Linear, Linear
+	scale: 0.35
+user_惊叹号
+	bounds: 132, 821, 24, 32
+	offsets: 34, 33, 91, 98
+user_装饰点
+	bounds: 2, 650, 138, 203
+	offsets: 22, 20, 171, 245
+	rotate: 180
+y/y_下睫毛a
+	bounds: 12, 799, 7, 6
+	offsets: 34, 34, 76, 75
+y/y_发_01
+	bounds: 128, 234, 31, 67
+	offsets: 34, 34, 99, 135
+y/y_发_02
+	bounds: 120, 682, 38, 73
+	offsets: 34, 35, 106, 142
+	rotate: 180
+y/y_发_03
+	bounds: 13, 92, 77, 101
+	offsets: 34, 33, 144, 167
+	rotate: 90
+y/y_发_04
+	bounds: 117, 576, 42, 42
+	offsets: 34, 34, 110, 107
+y/y_发_05
+	bounds: 55, 113, 60, 104
+	offsets: 33, 33, 126, 171
+	rotate: 270
+y/y_发_06
+	bounds: 6, 218, 73, 123
+	offsets: 33, 33, 139, 189
+	rotate: 270
+y/y_发_07
+	bounds: 2, 13, 42, 46
+	offsets: 34, 2, 92, 82
+	rotate: 90
+y/y_发_08
+	bounds: 2, 34, 52, 54
+	offsets: 34, 34, 120, 122
+	rotate: 180
+y/y_发_09
+	bounds: 2, 160, 95, 73
+	offsets: 33, 34, 161, 140
+y/y_发_10
+	bounds: 11, 385, 153, 116
+	offsets: 32, 33, 217, 182
+	rotate: 90
+y/y_发_11
+	bounds: 2, 534, 116, 119
+	offsets: 33, 31, 182, 182
+	rotate: 90
+y/y_发影子
+	bounds: 85, 145, 89, 69
+	offsets: 31, 33, 154, 135
+	rotate: 270
+y/y_垂发b
+	bounds: 132, 359, 28, 50
+	offsets: 34, 34, 97, 118
+y/y_小饰品
+	bounds: 61, 837, 16, 16
+	offsets: 34, 34, 84, 84
+y/y_手a
+	bounds: 68, 3, 58, 36
+	offsets: 34, 36, 126, 106
+	rotate: 180
+y/y_手b
+	bounds: 30, 830, 15, 17
+	offsets: 34, 34, 83, 85
+y/y_披风a
+	bounds: 4, 61, 95, 54
+	offsets: 33, 33, 161, 121
+y/y_披风a挂坠
+	bounds: 46, 828, 13, 14
+	offsets: 34, 34, 82, 83
+y/y_披风b
+	bounds: 39, 31, 84, 48
+	offsets: 34, 34, 151, 116
+	rotate: 180
+y/y_披风b挂坠
+	bounds: 33, 818, 11, 10
+	offsets: 34, 34, 79, 78
+y/y_盘
+	bounds: 98, 623, 64, 60
+	offsets: 34, 34, 131, 127
+	rotate: 270
+y/y_眉毛
+	bounds: 2, 841, 60, 12
+	offsets: 34, 34, 128, 81
+y/y_眼珠a
+	bounds: 2, 816, 30, 29
+	offsets: 34, 34, 97, 97
+y/y_眼眶a
+	bounds: 120, 2, 40, 22
+	offsets: 35, 43, 110, 101
+y/y_眼睛b
+	bounds: 2, 7, 23, 19
+	offsets: 34, 34, 91, 87
+y/y_羽毛a
+	bounds: 2, 795, 16, 21
+	offsets: 34, 35, 84, 90
+y/y_羽毛b
+	bounds: 2, 787, 16, 11
+	offsets: 34, 34, 84, 79
+y/y_腿a
+	bounds: 107, 302, 48, 86
+	offsets: 34, 34, 116, 154
+y/y_腿b
+	bounds: 126, 496, 32, 82
+	offsets: 34, 34, 99, 150
+y/y_花a
+	bounds: 99, 73, 53, 57
+	offsets: 34, 34, 121, 125
+	rotate: 270
+y/y_花b
+	bounds: 114, 33, 43, 47
+	offsets: 34, 34, 111, 114
+	rotate: 270
+y/y_裙摆后
+	bounds: 6, 260, 115, 61
+	offsets: 33, 34, 181, 120
+y/y_身体
+	bounds: 2, 315, 118, 86
+	offsets: 32, 32, 181, 150
+	rotate: 180
+y/y_鼻子
+	bounds: 50, 417, 103, 84
+	offsets: 34, 33, 170, 150

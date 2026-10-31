@@ -1,0 +1,94 @@
+p16_kong.png
+	size: 377, 460
+	filter: Linear, Linear
+	scale: 0.35
+k_五官
+	bounds: 2, 396, 95, 62
+	offsets: 3, 3, 101, 68
+k_发_a
+	bounds: 286, 2, 83, 49
+	offsets: 0, 1, 85, 51
+k_发_b
+	bounds: 215, 100, 100, 148
+	offsets: 0, 0, 102, 148
+	rotate: 270
+k_发_c
+	bounds: 2, 241, 238, 217
+k_发_d
+	bounds: 129, 20, 50, 85
+	offsets: 1, 0, 54, 86
+	rotate: 90
+k_右手
+	bounds: 215, 12, 52, 71
+	offsets: 1, 2, 54, 74
+	rotate: 270
+k_手臂
+	bounds: 104, 150, 109, 144
+	rotate: 90
+k_披风
+	bounds: 2, 100, 146, 126
+	offsets: 0, 0, 146, 127
+	rotate: 270
+k_汗_a
+	bounds: 51, 359, 10, 13
+	offsets: 3, 3, 16, 19
+k_汗_b
+	bounds: 99, 445, 11, 13
+	offsets: 3, 3, 17, 19
+k_汗_c
+	bounds: 99, 400, 14, 16
+	offsets: 3, 3, 20, 22
+k_眉毛
+	bounds: 286, 53, 85, 51
+	offsets: 3, 3, 91, 57
+k_耳环
+	bounds: 335, 105, 40, 51
+	offsets: 12, 22, 67, 83
+	rotate: 180
+k_胳膊
+	bounds: 117, 64, 61, 136
+	offsets: 2, 0, 63, 137
+	rotate: 270
+k_脸
+	bounds: 242, 202, 122, 114
+	offsets: 3, 3, 125, 117
+k_身体
+	bounds: 42, 7, 73, 48
+	offsets: 1, 1, 75, 51
+k_辫子
+	bounds: 2, 22, 131, 62
+	offsets: 0, 2, 131, 64
+y发工
+	bounds: 145, 118, 40, 40
+	offsets: 2, 2, 42, 43
+图层 231
+	bounds: 242, 318, 127, 140
+	offsets: 4, 4, 134, 148
+小花_a
+	bounds: 72, 348, 24, 24
+	offsets: 3, 3, 30, 30
+小花_b
+	bounds: 205, 427, 31, 31
+	offsets: 3, 3, 37, 37
+抖_a
+	bounds: 222, 375, 14, 39
+	offsets: 4, 3, 21, 46
+抖_b
+	bounds: 2, 197, 11, 19
+	offsets: 4, 3, 18, 25
+抖_d
+	bounds: 35, 374, 20, 61
+	offsets: 3, 3, 26, 67
+	rotate: 90
+抖_e
+	bounds: 2, 218, 24, 51
+	offsets: 3, 3, 30, 57
+汗_a
+	bounds: 181, 437, 21, 21
+	offsets: 3, 3, 27, 27
+汗_b
+	bounds: 210, 255, 25, 27
+	offsets: 3, 3, 31, 33
+汗_c
+	bounds: 77, 216, 24, 23
+	offsets: 3, 3, 30, 29

@@ -1,0 +1,122 @@
+p16_ying.png
+	size: 831, 226
+	filter: Linear, Linear
+	scale: 0.35
+y_上臂b
+	bounds: 700, 4, 65, 52
+	offsets: 0, 1, 65, 53
+y_刘海
+	bounds: 2, 15, 230, 209
+	offsets: 0, 0, 230, 215
+y_后发
+	bounds: 195, 7, 184, 217
+	offsets: 0, 1, 184, 218
+y_嘴
+	bounds: 48, 169, 10, 7
+	offsets: 3, 5, 20, 15
+y_图层 232
+	bounds: 782, 87, 24, 28
+	offsets: 3, 4, 30, 35
+y_头
+	bounds: 380, 70, 120, 154
+	offsets: 3, 3, 123, 160
+y_披风a
+	bounds: 710, 57, 109, 71
+	offsets: 0, 2, 110, 73
+	rotate: 90
+y_披风b
+	bounds: 766, 130, 60, 41
+	offsets: 1, 2, 62, 44
+	rotate: 90
+y_汗_a
+	bounds: 35, 126, 13, 13
+	offsets: 3, 3, 19, 19
+y_汗_b
+	bounds: 2, 125, 13, 13
+	offsets: 3, 3, 19, 19
+y_汗_c
+	bounds: 93, 166, 12, 12
+	offsets: 3, 3, 18, 18
+y_眉毛
+	bounds: 197, 187, 69, 37
+	offsets: 3, 3, 75, 43
+y_眼_a
+	bounds: 767, 8, 48, 31
+	offsets: 3, 3, 54, 37
+	rotate: 90
+y_眼_c
+	bounds: 648, 8, 42, 22
+	offsets: 3, 3, 48, 28
+y_眼球_b
+	bounds: 170, 4, 31, 21
+	offsets: 3, 3, 37, 27
+y_羽毛_a
+	bounds: 792, 142, 33, 33
+	offsets: 0, 2, 33, 36
+	rotate: 180
+y_羽毛_b
+	bounds: 81, 176, 28, 48
+	offsets: 1, 2, 30, 52
+y_胳膊
+	bounds: 360, 10, 58, 133
+	offsets: 1, 1, 60, 136
+	rotate: 90
+y_花
+	bounds: 502, 2, 80, 81
+	offsets: 4, 4, 87, 88
+	rotate: 90
+y_身体a
+	bounds: 603, 26, 144, 142
+	rotate: 180
+y_鬓角1c
+	bounds: 2, 3, 54, 54
+	offsets: 0, 1, 54, 55
+	rotate: 180
+y_鬓角2
+	bounds: 727, 152, 66, 64
+	offsets: 0, 1, 67, 65
+	rotate: 90
+y_鼻子
+	bounds: 2, 221, 3, 3
+	offsets: 4, 16, 17, 22
+图层 231
+	bounds: 502, 84, 127, 140
+	offsets: 4, 4, 134, 148
+小花_a
+	bounds: 790, 117, 24, 24
+	offsets: 3, 3, 30, 30
+小花_b
+	bounds: 2, 140, 31, 31
+	offsets: 3, 3, 37, 37
+左边手
+	bounds: 659, 166, 50, 81
+	offsets: 1, 1, 51, 83
+	rotate: 90
+抖_a
+	bounds: 800, 17, 14, 39
+	offsets: 4, 3, 21, 46
+抖_b
+	bounds: 35, 155, 11, 19
+	offsets: 4, 3, 18, 25
+抖_d
+	bounds: 585, 4, 20, 61
+	offsets: 3, 3, 26, 67
+	rotate: 90
+抖_e
+	bounds: 336, 6, 24, 51
+	offsets: 3, 3, 30, 57
+	rotate: 90
+汗_a
+	bounds: 808, 87, 21, 21
+	offsets: 3, 3, 27, 27
+汗_b
+	bounds: 781, 58, 25, 27
+	offsets: 3, 3, 31, 33
+汗_c
+	bounds: 792, 200, 24, 23
+	offsets: 3, 3, 30, 29
+	rotate: 90
+鬓角B
+	bounds: 2, 172, 52, 79
+	offsets: 2, 1, 56, 80
+	rotate: 90

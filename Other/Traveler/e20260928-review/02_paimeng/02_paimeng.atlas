@@ -1,0 +1,86 @@
+02_paimeng.png
+	size: 176, 374
+	filter: Linear, Linear
+	scale: 0.35
+侧发a
+	bounds: 2, 67, 52, 85
+侧发b
+	bounds: 133, 298, 33, 68
+	offsets: 2, 4, 99, 85
+前发a
+	bounds: 2, 2, 29, 52
+	rotate: 90
+前发b
+	bounds: 117, 30, 45, 45
+	rotate: 180
+发阴影a
+	bounds: 157, 56, 17, 30
+	rotate: 180
+发阴影b
+	bounds: 139, 14, 27, 27
+	offsets: 0, 0, 28, 27
+发阴影c
+	bounds: 153, 3, 15, 29
+发饰
+	bounds: 2, 216, 18, 21
+	offsets: 2, 1, 35, 23
+后发
+	bounds: 2, 152, 92, 85
+嘴巴a
+	bounds: 133, 301, 8, 8
+	offsets: 2, 3, 11, 12
+手
+	bounds: 44, 57, 63, 37
+	offsets: 1, 0, 64, 37
+手_后
+	bounds: 52, 20, 40, 39
+	offsets: 55, 4, 97, 90
+披风
+	bounds: 46, 105, 96, 67
+	offsets: 16, 2, 112, 112
+拖尾a
+	bounds: 143, 139, 31, 30
+	offsets: 1, 1, 33, 32
+拖尾b
+	bounds: 55, 3, 28, 9
+	offsets: 1, 1, 30, 11
+星星
+	bounds: 2, 35, 30, 39
+	offsets: 1, 1, 32, 41
+	rotate: 90
+派蒙点装饰
+	bounds: 2, 239, 129, 133
+	offsets: 6, 1, 136, 141
+王冠
+	bounds: 133, 239, 57, 31
+	offsets: 1, 1, 59, 33
+	rotate: 90
+眉毛a
+	bounds: 34, 4, 14, 5
+	offsets: 1, 2, 17, 9
+眼珠a
+	bounds: 133, 311, 7, 16
+	offsets: 2, 2, 11, 19
+眼白a
+	bounds: 2, 196, 15, 18
+	offsets: 1, 1, 17, 20
+眼眶a
+	bounds: 85, 7, 17, 11
+	offsets: 2, 2, 21, 15
+眼眶a_2
+	bounds: 74, 230, 17, 7
+	offsets: 1, 2, 20, 10
+脸
+	bounds: 96, 171, 60, 66
+	offsets: 3, 2, 65, 69
+腿a
+	bounds: 138, 87, 50, 34
+	offsets: 43, 0, 107, 109
+	rotate: 90
+腿b
+	bounds: 89, 5, 43, 51
+	offsets: 52, 1, 96, 149
+	rotate: 90
+身体
+	bounds: 96, 69, 54, 47
+	offsets: 29, 3, 96, 116
